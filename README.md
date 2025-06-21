@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hey%20There%20👋&fontSize=90&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey%20There%20👋&fontSize=90&animation=fadeIn" />
 </p>
 <header>
   <h1>Check out my GitHub profile!</h1>
@@ -46,6 +46,6 @@ programming_languages: ["Java, C/C++, Python, SystemVerilog, Javascript"]
 hobbies: ["Gaming 🎮", "Watching TV/Movies 📺", "Tennis 🎾", "Photography 📷", "Side Quests 🌎"]
 ```
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&animation=fadeIn" />
 </p>
 
