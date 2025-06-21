@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey%20There%20👋&fontSize=75&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=225&section=header&text=Hey%20There%20👋&fontSize=90&animation=fadeIn" />
 </p>
 <header>
   <h1>Check out my GitHub profile!</h1>
