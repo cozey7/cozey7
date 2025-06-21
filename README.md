@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HiThere&fontSize=90&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20There%20👋&fontSize=90&animation=fadeIn" />
+  <img height="50" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lyNHM3azB0bHYzdnoybGxqY2t0cDR5MjR5MzhoMWJnZGlpdmFudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YWB6Hi29vA3jG/giphy.gif"/>
 </p>
 
 
