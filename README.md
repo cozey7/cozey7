@@ -19,13 +19,13 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=225&section=header&text=Hey%20There%20👋&fontSize=90&animation=fadeIn" />
 </p>
 <header>
-  <h1>Check out my GitHub profile!</h1>
+  <h1>Feel free to explore my profile!</h1>
 </header>
 <p align="center">
-  <img height="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJkdm41bzEyZXF0MWR2OXA0MWZmdm8zd3dmMXc4bHFtbmY4b3E4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q8ld8Sk7WWyY0/giphy.gif"/>
+  <img height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJkdm41bzEyZXF0MWR2OXA0MWZmdm8zd3dmMXc4bHFtbmY4b3E4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q8ld8Sk7WWyY0/giphy.gif"/>
 </p>
 <header>
-  <h1>About Me</h1>
+  <h1>A Little Bit About Me</h1>
 </header>
 
 ```yaml
